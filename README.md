@@ -56,6 +56,15 @@
 
 ---
 
+### 📊 Mis Estadísticas de GitHub / My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosPadron95&show_icons=true&theme=radical" alt="Estadísticas de Carlos" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPadron95&layout=compact&theme=radical" alt="Lenguajes más usados" height="150" />
+</p>
+
+---
+
 ### 🤝 Connect with me / Conecta conmigo
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-padr%C3%B3n-delgado-395166234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Padrón" height="30" width="40" /></a>
