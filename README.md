@@ -59,8 +59,8 @@
 ### 📊 Mis Estadísticas de GitHub / My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosPadron95&show_icons=true&theme=radical" alt="Estadísticas de Carlos" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPadron95&layout=compact&theme=radical" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosPadron95&show_icons=true&theme=radical" alt="Estadísticas de Carlos" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPadron95&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
