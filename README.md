@@ -6,10 +6,8 @@
 
 ### 👨‍💻 Sobre mí / About Me
 
-**ESP:** Soy un **Desarrollador Full-Stack en formación** con un fuerte enfoque en aplicaciones web basadas en datos. Mi experiencia en entornos de alta presión (hostelería y comercio) ha forjado en mí una mentalidad disciplinada, resolutiva y una gran capacidad de aprendizaje acelerado.
-
-**ENG:** I am a **Full-Stack Developer in training** focused on building data-driven web applications. My background in high-pressure environments (Hospitality & Retail) has forged a disciplined, problem-solving mindset and a high capacity for rapid learning.
-
+**ESP:** Soy un **Desarrollador Full-Stack en formación** con un fuerte enfoque en aplicaciones web basadas en datos. Me apasiona construir proyectos completos, desde el diseño de APIs REST hasta interfaces de usuario modernas, combinando tecnologías como Django, React y PostgreSQL.
+**ENG:** I am a **Full-Stack Developer in training** focused on building data-driven web applications. I enjoy creating complete projects from REST API design to modern user interfaces, combining technologies like Django, React and PostgreSQL.
 ---
 
 ### 🛠️ Tech Stack & Tools
