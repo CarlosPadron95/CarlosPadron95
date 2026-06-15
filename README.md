@@ -97,7 +97,7 @@
 ---
 
 ### 🤝 Conecta conmigo / Connect with me
-
 <p align="left">
+<a href="https://carlospdev.com" target="blank"><img align="center" src="https://carlospdev.com/favicon.ico" alt="Web personal" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/carlos-padr%C3%B3n-delgado-395166234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Padrón" height="30" width="40" /></a>
 </p>
