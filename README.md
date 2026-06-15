@@ -6,9 +6,13 @@
 
 ### 👨‍💻 Sobre mí / About Me
 
-**ESP:** Soy un **Desarrollador Full-Stack en formación** con un fuerte enfoque en aplicaciones web basadas en datos. Me apasiona construir proyectos completos, desde el diseño de APIs REST hasta interfaces de usuario modernas, combinando tecnologías como Django, React y PostgreSQL.
+**ESP:** Soy un **Desarrollador Full-Stack** basado en Las Palmas de Gran Canaria. Construyo aplicaciones web con React, Node.js y Python, con especial interés en la intersección entre desarrollo y automatización: flujos con n8n, bots de WhatsApp, chatbots y dashboards con Streamlit. También trabajo con WordPress a nivel de desarrollo y personalización. Siempre escribiendo código limpio y mantenible.
 
-**ENG:** I am a **Full-Stack Developer in training** focused on building data-driven web applications. I enjoy creating complete projects from REST API design to modern user interfaces, combining technologies like Django, React and PostgreSQL.
+🛠 React · JavaScript · TypeScript · Node.js · Python · SQL · CSS · WordPress · Streamlit · n8n
+
+**ENG:** I am a **Full-Stack Developer** based in Las Palmas de Gran Canaria. I build web apps with React, Node.js and Python, with a strong interest in the intersection of development and automation — n8n workflows, WhatsApp bots, chatbots, and Streamlit dashboards. I also work with WordPress at a customization level. Always writing clean, maintainable code.
+
+🛠 React · JavaScript · TypeScript · Node.js · Python · SQL · CSS · WordPress · Streamlit · n8n
 
 ---
 
