@@ -7,14 +7,14 @@
 ### 👨‍💻 Sobre mí / About Me
 
 **Español**  
-Soy un **Desarrollador Full-Stack** (Las Palmas de Gran Canaria) orientado a producto. Me dedico a transformar lógicas de negocio complejas en herramientas digitales rápidas, seguras y visualmente impecables. Mi núcleo técnico combina la solidez de **Python (Django / DRF)** para arquitecturas escalables (RBAC, APIs RESTful) con **JavaScript (React / Vanilla JS)** para crear interfaces de alto rendimiento y maquetación avanzada (SCSS, Tailwind). 
+Soy un **Desarrollador Full-Stack** orientado a producto. Me dedico a transformar lógicas de negocio complejas en herramientas digitales rápidas, seguras y visualmente impecables. Mi núcleo técnico combina la solidez de **Python (Django / DRF)** para arquitecturas escalables (RBAC, APIs RESTful) con **JavaScript (React / Vanilla JS)** para crear interfaces de alto rendimiento y maquetación avanzada (SCSS, Tailwind). 
 
 Movido por una fuerte mentalidad de crecimiento, mi ecosistema no deja de expandirse: integro **Node.js**, automatización estratégica (flujos con **n8n**, **bots de WhatsApp**), dashboards con **Streamlit** y personalización avanzada en **WordPress**. No me conformo con que el código funcione; construyo soluciones completas que optimizan procesos y siempre busco el siguiente gran reto tecnológico.
 
 ---
 
 **English**  
-I'm a product-oriented **Full-Stack Developer** based in Las Palmas de Gran Canaria. I specialize in transforming complex business logic into fast, secure, and visually flawless digital tools. My core stack leverages the power of **Python (Django / DRF)** for scalable, secure architectures (RBAC, RESTful APIs), combined with **JavaScript (React / Vanilla JS)** to engineer high-performance interfaces and advanced layouts (SCSS, Tailwind).
+I'm a product-oriented **Full-Stack Developer**. I specialize in transforming complex business logic into fast, secure, and visually flawless digital tools. My core stack leverages the power of **Python (Django / DRF)** for scalable, secure architectures (RBAC, RESTful APIs), combined with **JavaScript (React / Vanilla JS)** to engineer high-performance interfaces and advanced layouts (SCSS, Tailwind).
 
 Driven by a relentless growth mindset, my ecosystem is constantly expanding: I integrate **Node.js**, strategic automation (**n8n workflows**, **WhatsApp bots**), data-driven dashboards (**Streamlit**), and deep **WordPress** customization. I don't just write code that works; I engineer end-to-end solutions that streamline processes, always hunting for the next big technical challenge.
 ---
