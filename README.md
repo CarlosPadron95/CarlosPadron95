@@ -17,6 +17,7 @@ Movido por una fuerte mentalidad de crecimiento, mi ecosistema no deja de expand
 I'm a product-oriented **Full-Stack Developer**. I specialize in transforming complex business logic into fast, secure, and visually flawless digital tools. My core stack leverages the power of **Python (Django / DRF)** for scalable, secure architectures (RBAC, RESTful APIs), combined with **JavaScript (React / Vanilla JS)** to engineer high-performance interfaces and advanced layouts (SCSS, Tailwind).
 
 Driven by a relentless growth mindset, my ecosystem is constantly expanding: I integrate **Node.js**, strategic automation (**n8n workflows**, **WhatsApp bots**), data-driven dashboards (**Streamlit**), and deep **WordPress** customization. I don't just write code that works; I engineer end-to-end solutions that streamline processes, always hunting for the next big technical challenge.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
