@@ -6,10 +6,17 @@
 
 ### 👨‍💻 Sobre mí / About Me
 
-**ESP:** Soy un **Desarrollador Full-Stack** en Las Palmas de Gran Canaria. Construyo aplicaciones web con React, Node.js y Python, con especial interés en la intersección entre desarrollo y automatización: flujos con n8n, bots de WhatsApp, chatbots y dashboards con Streamlit. También trabajo con WordPress a nivel de desarrollo y personalización. Siempre escribiendo código limpio y mantenible.
+**Español**  
+**Desarrollador Full-Stack** (Las Palmas de Gran Canaria) orientado a producto. Me dedico a transformar lógicas de negocio complejas en herramientas digitales rápidas, seguras y visualmente impecables. Mi núcleo técnico combina la solidez de **Python (Django / DRF)** para arquitecturas escalables (RBAC, APIs RESTful) con **JavaScript (React / Vanilla JS)** para crear interfaces de alto rendimiento y maquetación avanzada (SCSS, Tailwind). 
 
-**ENG:** I am a **Full-Stack Developer** based in Las Palmas de Gran Canaria. I build web apps with React, Node.js and Python, with a strong interest in the intersection of development and automation — n8n workflows, WhatsApp bots, chatbots, and Streamlit dashboards. I also work with WordPress at a customization level. Always writing clean, maintainable code.
+Movido por una fuerte mentalidad de crecimiento, mi ecosistema no deja de expandirse: integro **Node.js**, automatización estratégica (flujos con **n8n**, **bots de WhatsApp**), dashboards con **Streamlit** y personalización avanzada en **WordPress**. No me conformo con que el código funcione; construyo soluciones completas que optimizan procesos y siempre busco el siguiente gran reto tecnológico.
 
+---
+
+**English**  
+Product-oriented **Full-Stack Developer** based in Las Palmas de Gran Canaria. I specialize in transforming complex business logic into fast, secure, and visually flawless digital tools. My core stack leverages the power of **Python (Django / DRF)** for scalable, secure architectures (RBAC, RESTful APIs), combined with **JavaScript (React / Vanilla JS)** to engineer high-performance interfaces and advanced layouts (SCSS, Tailwind).
+
+Driven by a relentless growth mindset, my ecosystem is constantly expanding: I integrate **Node.js**, strategic automation (**n8n workflows**, **WhatsApp bots**), data-driven dashboards (**Streamlit**), and deep **WordPress** customization. I don't just write code that works; I engineer end-to-end solutions that streamline processes, always hunting for the next big technical challenge.
 ---
 
 ### 🛠️ Tech Stack & Tools
