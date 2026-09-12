@@ -78,32 +78,6 @@ Driven by a relentless growth mindset, my ecosystem is constantly expanding: I i
   </tr>
 </table>
 
----
-
-### 🌟 Proyectos Destacados / Featured Projects
-
-#### [TaskFlow Pro 📋](https://github.com/CarlosPadron95/Taskflow-Pro)
-
-**ESP:** Aplicación Full-Stack para gestión de tareas con dashboard de estadísticas en tiempo real, API REST y base de datos en la nube.
-
-**ENG:** Full-Stack task management app with real-time statistics dashboard, REST API and cloud database.
-
-- **Tech:** Django REST Framework, React, PostgreSQL, Supabase, TailwindCSS, Framer Motion.
-- [**Live Demo 🌐**](https://pro-taskflow-pro.netlify.app)
-
----
-
-#### [Titanic AI Survival Predictor 🚢](https://github.com/CarlosPadron95/titanic-passengers-data-app)
-
-**ESP:** Aplicación Web interactiva que predice la supervivencia de pasajeros usando Machine Learning.
-
-**ENG:** Interactive Web App that predicts passenger survival using Machine Learning.
-
-- **Tech:** Python, Streamlit, Scikit-Learn, Plotly.
-- [**Live Demo 🌐**](https://titanic-passengers-data-app.streamlit.app/)
-
----
-
 ### 🤝 Conecta conmigo / Connect with me
 <p align="left">
 <a href="https://carlospdev.com" target="blank"><img align="center" src="https://carlospdev.com/favicon.ico" alt="Web personal" height="30" width="30" /></a>
